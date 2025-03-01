@@ -3,9 +3,9 @@ document.getElementById("question-page").addEventListener("click", function () {
 });
 
 
-document.getElementById("back").addEventListener("click", function () {
-  window.location.href = "index.html";
-});
+// document.getElementById("back").addEventListener("click", function () {
+//   window.location.href = "index.html";
+// });
 
 
 
